@@ -59,4 +59,4 @@ git branch -D Aymenaqil01-new_feature
 14.git checkout dev
 nano git_commands.md
 <h2>Captures</h2>
-<img src="https://github.com/Aymenaqil01/Devops/blob/main/images/Capture%20d'%C3%A9cran%202024-11-22%20115628.png">
+<a href="https://github.com/Aymenaqil01/Devops/tree/main/images" target="_blank">Go to GitHub Images Folder</a>
