@@ -19,7 +19,7 @@ git push origin dev
 git checkout -b Aymenaqil01-new_feature /
 git push origin Aymenaqil01-new_feature 
 
-5.<h2>Add README.md file to your %USERNAME-new_feature branch</h2>
+5. <h2>Add README.md file to your %USERNAME-new_feature branch</h2>
 git add README.md /
 git commit -m "Add README.md to Aymenaqil01-new_feature" /
 git push origin Aymenaqil01-new_feature 
